@@ -17,6 +17,6 @@ Use Express to build MVC web server and a rest api to manage data
 
 Use Passport to authenticated web pages.
 
-### Front-end ###
+## Front-end ##
 
 AngularJS to build the user management page.
